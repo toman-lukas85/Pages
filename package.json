@@ -36,7 +36,8 @@
         "url": "https://github.com/StartBootstrap/startbootstrap-business-frontpage.git"
     },
     "dependencies": {
-        "bootstrap": "5.2.3"
+        "bootstrap": "5.2.3",
+        "startbootstrap-business-frontpage": "^5.0.9"
     },
     "devDependencies": {
         "autoprefixer": "10.4.14",
